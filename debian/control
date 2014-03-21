@@ -1,0 +1,12 @@
+Source: ros-hydro-schunk-sdh
+Section: misc
+Priority: extra
+Maintainer: Florian Weisshardt <fmw@ipa.fhg.de>
+Build-Depends: debhelper (>= 7.0.50~), libusb-dev, ros-hydro-actionlib, ros-hydro-brics-actuator, ros-hydro-catkin, ros-hydro-cob-srvs, ros-hydro-control-msgs, ros-hydro-diagnostic-msgs, ros-hydro-libntcan, ros-hydro-libpcan, ros-hydro-message-generation, ros-hydro-roscpp, ros-hydro-sensor-msgs, ros-hydro-trajectory-msgs, ros-hydro-urdf
+Homepage: http://ros.org/wiki/schunk_sdh
+Standards-Version: 3.9.2
+
+Package: ros-hydro-schunk-sdh
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libusb-dev, ros-hydro-actionlib, ros-hydro-brics-actuator, ros-hydro-cob-srvs, ros-hydro-control-msgs, ros-hydro-diagnostic-msgs, ros-hydro-libntcan, ros-hydro-libpcan, ros-hydro-message-runtime, ros-hydro-roscpp, ros-hydro-sensor-msgs, ros-hydro-trajectory-msgs, ros-hydro-urdf
+Description: This package provides an interface for operating the schunk dexterous hand (SDH), including the tactile sensors.
