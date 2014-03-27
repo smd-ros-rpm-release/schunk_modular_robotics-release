@@ -2,6 +2,17 @@
 Changelog for package schunk_simulated_tactile_sensors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.5.3 (2014-03-27)
+------------------
+* install tags
+* some catkin_lint
+* Contributors: ipa-fxm
+
+0.5.2 (2014-03-27)
+------------------
+* add dep to rostest
+* Contributors: Florian Weisshardt
+
 0.5.1 (2014-03-20)
 ------------------
 * Adapted topics for simulated tactile sensors.
