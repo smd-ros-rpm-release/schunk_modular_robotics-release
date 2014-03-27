@@ -1,6 +1,6 @@
 <package>
   <name>schunk_simulated_tactile_sensors</name>
-  <version>0.5.1</version>
+  <version>0.5.3</version>
   <description>This package provides simulated tactile sensors for the Schunk Dextrous
      Hand (SDH) which is mounted on the Care-O-bot arm. The node subscribes to
      the Gazebo bumper topics of the SDH. It transforms the Gazebo feedback to
@@ -59,9 +59,11 @@
   <build_depend>rospy</build_depend>
   <build_depend>schunk_sdh</build_depend>
   <build_depend>geometry_msgs</build_depend>
+  <build_depend>rostest</build_depend>
   <run_depend>rospy</run_depend>
   <run_depend>schunk_sdh</run_depend>
   <run_depend>geometry_msgs</run_depend>
+  <run_depend>rostest</run_depend>
   <export>
 
   </export>
