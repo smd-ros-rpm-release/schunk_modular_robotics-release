@@ -2,6 +2,9 @@
 Changelog for package schunk_libm5api
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.5.4 (2014-03-28)
+------------------
+
 0.5.3 (2014-03-27)
 ------------------
 * install tags for header files
