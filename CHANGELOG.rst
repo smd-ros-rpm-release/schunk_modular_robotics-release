@@ -2,6 +2,14 @@
 Changelog for package schunk_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.1 (2014-09-22)
+------------------
+* 1=true
+* fix bumper plugins
+* merge
+* fixed center of mass and inertias
+* Contributors: ipa-fxm, ipa-fxm-fm
+
 0.6.0 (2014-09-18)
 ------------------
 * beautification
