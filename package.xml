@@ -1,6 +1,6 @@
 <package>
   <name>schunk_modular_robotics</name>
-  <version>0.6.1</version>
+  <version>0.6.2</version>
   <description>This stack includes packages that provide access to the Schunk hardware through ROS messages, services and actions.</description>
  
 
@@ -16,6 +16,7 @@
 
   <buildtool_depend>catkin</buildtool_depend>
   <run_depend>schunk_sdh</run_depend>
+  <run_depend>schunk_sdhx</run_depend>
   <run_depend>schunk_simulated_tactile_sensors</run_depend>
   <run_depend>schunk_libm5api</run_depend>
   <run_depend>schunk_description</run_depend>
