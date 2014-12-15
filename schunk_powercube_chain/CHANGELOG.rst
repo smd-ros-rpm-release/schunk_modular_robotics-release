@@ -2,6 +2,11 @@
 Changelog for package schunk_powercube_chain
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.2 (2014-12-15)
+------------------
+* add dependencies
+* Contributors: ipa-fxm
+
 0.6.1 (2014-09-22)
 ------------------
 
